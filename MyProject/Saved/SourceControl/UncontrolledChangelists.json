@@ -6,7 +6,29 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/VBS/Unreal-Ensemble/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
-				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/BP_AI_Biker.uasset"
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/BP_AI_Biker.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/BP_BikerIdle.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/BP_BikerWalking.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/BP_Biker.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/Breathing_Idle_Biker.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_fbm/Ch20_1001_Specular.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_fbm/Ch20_1001_Diffuse.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_fbm/Ch20_1001_Glossiness.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_fbm/Ch20_1001_Normal.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/Jumping.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/BikerIdle.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/BikerWalking.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_PhysicsAsset.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_Skeleton.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X9/YTDDY0RM8SYU7LAUQE01P4.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_1001_Diffuse.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_1001_Glossiness.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_1001_Normal.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_1001_Specular.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_body.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MY/QOKCP9VCVZ8JUVYJ6M6MWU.uasset",
+				"D:/VBS/Unreal-Ensemble/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/T7/4VLHP4EKT4C6ZOAR3LAOWN.uasset"
 			]
 		}
 	]

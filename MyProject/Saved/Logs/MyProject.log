@@ -2831,3 +2831,1129 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2023.08.12-16.18.40:480][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2023.08.12-16.18.40:486][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
 [2023.08.12-16.18.40:522][741]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.08.12-16.25.55:584][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.08.12-16.25.55:594][935]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X9/YTDDY0RM8SYU7LAUQE01P4_Auto3
+[2023.08.12-16.25.55:594][935]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/YTDDY0RM8SYU7LAUQE01P4_Auto3E227D44C422A59322719A98DF102A007.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X9/YTDDY0RM8SYU7LAUQE01P4_Auto3.uasset'
+[2023.08.12-16.25.55:595][935]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2023.08.12-16.25.55:595][935]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2023.08.12-16.25.55:596][935]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AI_Biker] ([2] browsable assets)...
+[2023.08.12-16.25.55:602][935]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AI_Biker.BP_AI_Biker]
+[2023.08.12-16.25.55:602][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI_Biker]
+[2023.08.12-16.25.55:602][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI_Biker" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/BP_AI_Biker_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.08.12-16.25.55:608][935]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BP_AI_Biker_Auto3
+[2023.08.12-16.25.55:608][935]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/BP_AI_Biker_Auto377624AAA40DBB20E35573D98F5E9D1C6.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/BP_AI_Biker_Auto3.uasset'
+[2023.08.12-16.25.55:608][935]LogFileHelpers: Auto-saving content packages took 0.013
+[2023.08.12-16.41.36:519][759]LogDerivedDataCache: C:/Users/jason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.046 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 561 files in 1020 folders with total size 70 MiB.
+[2023.08.12-17.41.35:544][556]LogDerivedDataCache: C:/Users/jason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.071 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 561 files in 1020 folders with total size 70 MiB.
+[2023.08.12-18.41.35:522][356]LogDerivedDataCache: C:/Users/jason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 561 files in 1020 folders with total size 70 MiB.
+[2023.08.12-19.41.35:114][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.08.12-19.41.35:117][589]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2023.08.12-19.41.35:117][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AI_Biker] ([2] browsable assets)...
+[2023.08.12-19.41.35:126][589]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AI_Biker.BP_AI_Biker]
+[2023.08.12-19.41.35:126][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI_Biker]
+[2023.08.12-19.41.35:126][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI_Biker" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/BP_AI_Biker_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.12-19.41.35:145][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BP_AI_Biker_Auto4
+[2023.08.12-19.41.35:145][589]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/BP_AI_Biker_Auto494D583704E68ACC50F9B3D82211B3C84.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/BP_AI_Biker_Auto4.uasset'
+[2023.08.12-19.41.35:146][589]LogFileHelpers: Auto-saving content packages took 0.029
+[2023.08.12-19.41.35:527][591]LogDerivedDataCache: C:/Users/jason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 561 files in 1020 folders with total size 70 MiB.
+[2023.08.12-19.42.34:723][468]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.12-19.42.34:732][468]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.12-19.42.34:753][468]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.12-19.42.34:777][469]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.12-19.42.46:907][903]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.08.12-19.42.46:912][903]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.12-19.42.59:998][373]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_BikerIdle
+[2023.08.12-19.43.00:060][373]LogMetaData: Removing '/Game/AI/BP_BikerIdle.BP_BikerIdle:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2023.08.12-19.43.00:060][373]LogMetaData: Removing '/Game/AI/BP_BikerIdle.SKEL_BP_BikerIdle_C:UserConstructionScript' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2023.08.12-19.43.00:060][373]LogMetaData: Removing '/Game/AI/BP_BikerIdle.SKEL_BP_BikerIdle_C' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2023.08.12-19.43.00:060][373]LogMetaData: Removing '/Game/AI/BP_BikerIdle.BP_BikerIdle_C' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2023.08.12-19.43.00:060][373]LogMetaData: Removing '/Game/AI/BP_BikerIdle.BP_BikerIdle:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2023.08.12-19.43.00:060][373]LogMetaData: Removing '/Game/AI/BP_BikerIdle.BP_BikerIdle:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2023.08.12-19.43.00:060][373]LogMetaData: Removing '/Game/AI/BP_BikerIdle.BP_BikerIdle:EventGraph.K2Node_Event_2' ref from Metadata '/Game/AI/NewBlueprint.PackageMetaData'
+[2023.08.12-19.43.00:094][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-19.43.00:148][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_BikerIdle" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/BP_BikerIdle.uasset" SILENT=true
+[2023.08.12-19.43.00:150][373]LogSavePackage: Moving output files for package: /Game/AI/BP_BikerIdle
+[2023.08.12-19.43.00:150][373]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/BP_BikerIdleFE687CA946C686B262D455A9E4512635.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/BP_BikerIdle.uasset'
+[2023.08.12-19.43.00:159][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.46 sec)
+[2023.08.12-19.43.00:189][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.08.12-19.43.00:209][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.08.12-19.43.00:227][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.08.12-19.43.00:231][373]AssetCheck: New page: Asset Save: BP_BikerIdle
+[2023.08.12-19.43.00:231][373]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_BikerIdle.BP_BikerIdle
+[2023.08.12-19.43.09:388][429]LogContentBrowser: Attempting asset rename: BP_AI_Biker -> BP_BikerWalking
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.BP_BikerWalking_C' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.SKEL_BP_BikerWalking_C' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.BP_BikerWalking:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.BP_BikerWalking:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.BP_BikerWalking:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.BP_BikerWalking:EventGraph.K2Node_Event_2' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.BP_BikerWalking_C:OnFail_152520F04A31D0C95BD7D5973B197954' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.BP_BikerWalking_C:OnSuccess_152520F04A31D0C95BD7D5973B197954' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.BP_BikerWalking_C:ReceiveTick' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.SKEL_BP_BikerWalking_C:UserConstructionScript' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.SKEL_BP_BikerWalking_C:ReceiveTick' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.SKEL_BP_BikerWalking_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:406][429]LogMetaData: Removing '/Game/AI/BP_BikerWalking.SKEL_BP_BikerWalking_C:ReceiveBeginPlay' ref from Metadata '/Game/AI/BP_AI_Biker.PackageMetaData'
+[2023.08.12-19.43.09:407][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-19.43.09:461][429]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-19.43.09:472][429]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-19.43.09:485][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_BikerWalking" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/BP_BikerWalking.uasset" SILENT=true
+[2023.08.12-19.43.09:492][429]LogSavePackage: Moving output files for package: /Game/AI/BP_BikerWalking
+[2023.08.12-19.43.09:492][429]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/BP_BikerWalking773699DA4FE97BBD2D2020B44F85B926.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/BP_BikerWalking.uasset'
+[2023.08.12-19.43.09:506][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.56 sec)
+[2023.08.12-19.43.09:637][429]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_00D86156D711D29E01_1599691967 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KW/7OZ9PFNMXYOKRLU4J0L82I.PackageMetaData in its package
+[2023.08.12-19.43.09:639][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.08.12-19.43.09:658][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.08.12-19.43.09:674][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.08.12-19.43.09:679][429]AssetCheck: New page: Asset Save: BP_BikerWalking
+[2023.08.12-19.43.09:679][429]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_BikerWalking.BP_BikerWalking
+[2023.08.12-19.43.09:700][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.08.12-19.45.05:605][657]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/jason/Downloads/Breathing Idle Biker.fbx)
+[2023.08.12-19.45.05:624][657]LogFbx: Loading FBX Scene from C:/Users/jason/Downloads/Breathing Idle Biker.fbx
+[2023.08.12-19.45.05:648][657]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-19.45.30:876][657]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.08.12-19.45.30:920][657]LogFbx: SortedLinks :(0) Hips
+[2023.08.12-19.45.30:920][657]LogFbx: SortedLinks :(1) Spine
+[2023.08.12-19.45.30:920][657]LogFbx: SortedLinks :(2) Spine1
+[2023.08.12-19.45.30:920][657]LogFbx: SortedLinks :(3) Spine2
+[2023.08.12-19.45.30:920][657]LogFbx: SortedLinks :(4) Neck
+[2023.08.12-19.45.30:920][657]LogFbx: SortedLinks :(5) Head
+[2023.08.12-19.45.30:920][657]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.08.12-19.45.30:920][657]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.08.12-19.45.30:920][657]LogFbx: SortedLinks :(8) LeftArm
+[2023.08.12-19.45.30:920][657]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.08.12-19.45.30:920][657]LogFbx: SortedLinks :(10) LeftHand
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(23) LeftHandRing1
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(24) LeftHandRing2
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(25) LeftHandRing3
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(26) LeftHandRing4
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(31) RightShoulder
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(32) RightArm
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(33) RightForeArm
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(34) RightHand
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(35) RightHandThumb1
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(36) RightHandThumb2
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(37) RightHandThumb3
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(38) RightHandThumb4
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(39) RightHandIndex1
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(40) RightHandIndex2
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(41) RightHandIndex3
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(42) RightHandIndex4
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(47) RightHandRing1
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(48) RightHandRing2
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(49) RightHandRing3
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(50) RightHandRing4
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(51) RightHandPinky1
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(52) RightHandPinky2
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(53) RightHandPinky3
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(54) RightHandPinky4
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(55) LeftUpLeg
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(56) LeftLeg
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(57) LeftFoot
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(58) LeftToeBase
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(59) LeftToe_End
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(60) RightUpLeg
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(61) RightLeg
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(62) RightFoot
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(63) RightToeBase
+[2023.08.12-19.45.30:921][657]LogFbx: SortedLinks :(64) RightToe_End
+[2023.08.12-19.45.30:921][657]LogFbx: Parsing AnimStack mixamo.com
+[2023.08.12-19.45.31:823][657]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AI/Breathing_Idle_Biker.Breathing_Idle_Biker
+[2023.08.12-19.45.32:098][657]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AI/Breathing_Idle_Biker.Breathing_Idle_Biker
+[2023.08.12-19.45.32:383][668]LogAnimationCompression: Display: Storing compressed animation data for /Game/AI/Breathing_Idle_Biker.Breathing_Idle_Biker, at AnimationSequence/02f1624d6f1bada494101366b2d7676843e968a5
+[2023.08.12-19.45.37:763][116]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AI/Breathing_Idle_Biker.Breathing_Idle_Biker
+[2023.08.12-19.45.37:764][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-19.45.37:764][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-19.45.37:773][116]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.12-19.45.37:941][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-19.45.37:941][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-19.45.38:064][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-19.45.38:064][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-19.45.38:077][116]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.08.12-19.45.38:098][116]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.08.12-19.45.45:067][899]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-19.45.45:067][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-19.45.45:073][899]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-19.45.45:073][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-19.45.45:179][899]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-19.45.45:179][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-19.46.03:627][440]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.08.12-19.48.40:329][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-19.48.43:327][ 53]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.08.12-19.48.43:337][ 53]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.08.12-19.48.43:360][ 53]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.08.12-19.48.43:424][ 54]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2023.08.12-19.48.51:165][906]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> BikerAnimator
+[2023.08.12-19.48.51:171][906]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.08.12-19.48.51:172][906]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-19.48.53:567][128]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AI/BikerAnimator.BikerAnimator
+[2023.08.12-19.48.53:646][128]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-19.48.53:646][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-19.48.53:664][128]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-19.48.53:664][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-19.48.53:671][128]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.12-19.48.53:911][128]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-19.48.53:911][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-19.48.54:033][128]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2023.08.12-19.51.19:026][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_BikerIdle.BP_BikerIdle
+[2023.08.12-19.51.19:026][328]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-19.51.19:027][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-19.51.19:098][328]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2023.08.12-19.51.19:165][329]LogViewport: Scene viewport resized to 1141x878, mode Windowed.
+[2023.08.12-19.51.19:214][330]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.08.12-19.51.38:161][498]LogContentBrowser: Attempting asset rename: BP_BikerIdle -> BP_Biker
+[2023.08.12-19.51.38:188][498]LogMetaData: Removing '/Game/AI/BP_Biker.BP_Biker_C' ref from Metadata '/Game/AI/BP_BikerIdle.PackageMetaData'
+[2023.08.12-19.51.38:188][498]LogMetaData: Removing '/Game/AI/BP_Biker.SKEL_BP_Biker_C' ref from Metadata '/Game/AI/BP_BikerIdle.PackageMetaData'
+[2023.08.12-19.51.38:189][498]LogMetaData: Removing '/Game/AI/BP_Biker.SKEL_BP_Biker_C:UserConstructionScript' ref from Metadata '/Game/AI/BP_BikerIdle.PackageMetaData'
+[2023.08.12-19.51.38:189][498]LogMetaData: Removing '/Game/AI/BP_Biker.BP_Biker:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/BP_BikerIdle.PackageMetaData'
+[2023.08.12-19.51.38:189][498]LogMetaData: Removing '/Game/AI/BP_Biker.BP_Biker:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI/BP_BikerIdle.PackageMetaData'
+[2023.08.12-19.51.38:189][498]LogMetaData: Removing '/Game/AI/BP_Biker.BP_Biker:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI/BP_BikerIdle.PackageMetaData'
+[2023.08.12-19.51.38:189][498]LogMetaData: Removing '/Game/AI/BP_Biker.BP_Biker:EventGraph.K2Node_Event_2' ref from Metadata '/Game/AI/BP_BikerIdle.PackageMetaData'
+[2023.08.12-19.51.38:192][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-19.51.38:247][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Biker" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/BP_Biker.uasset" SILENT=true
+[2023.08.12-19.51.38:250][498]LogSavePackage: Moving output files for package: /Game/AI/BP_Biker
+[2023.08.12-19.51.38:250][498]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/BP_BikerD1F51D03473532E4439199883B510A2A.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/BP_Biker.uasset'
+[2023.08.12-19.51.38:260][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.62 sec)
+[2023.08.12-19.51.38:387][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.08.12-19.51.38:407][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.08.12-19.51.38:424][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.08.12-19.51.38:429][498]AssetCheck: New page: Asset Save: BP_Biker
+[2023.08.12-19.51.38:429][498]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_Biker.BP_Biker
+[2023.08.12-19.52.04:407][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.08.12-19.52.04:411][718]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X9/YTDDY0RM8SYU7LAUQE01P4_Auto5
+[2023.08.12-19.52.04:411][718]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/YTDDY0RM8SYU7LAUQE01P4_Auto50395BB804623CDD48B5C1098D7A323F5.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X9/YTDDY0RM8SYU7LAUQE01P4_Auto5.uasset'
+[2023.08.12-19.52.04:412][718]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2023.08.12-19.52.04:412][718]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2023.08.12-19.52.04:412][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_BikerWalking] ([2] browsable assets)...
+[2023.08.12-19.52.04:423][718]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_BikerWalking.BP_BikerWalking]
+[2023.08.12-19.52.04:423][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_BikerWalking]
+[2023.08.12-19.52.04:423][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_BikerWalking" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/BP_BikerWalking_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.08.12-19.52.04:429][718]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BP_BikerWalking_Auto5
+[2023.08.12-19.52.04:429][718]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/BP_BikerWalking_Auto5312411AB403AB6A696404DB909EEB06B.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/BP_BikerWalking_Auto5.uasset'
+[2023.08.12-19.52.04:429][718]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/BikerAnimator] ([2] browsable assets)...
+[2023.08.12-19.52.04:444][718]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AI/BikerAnimator.BikerAnimator]
+[2023.08.12-19.52.04:444][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BikerAnimator]
+[2023.08.12-19.52.04:444][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BikerAnimator" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/BikerAnimator_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.08.12-19.52.04:460][718]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BikerAnimator_Auto5
+[2023.08.12-19.52.04:461][718]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/BikerAnimator_Auto5EEE27AD7493891F544979CBBAFA19714.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/BikerAnimator_Auto5.uasset'
+[2023.08.12-19.52.04:461][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Breathing_Idle_Biker] ([1] browsable assets)...
+[2023.08.12-19.52.04:466][718]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AI/Breathing_Idle_Biker.Breathing_Idle_Biker]
+[2023.08.12-19.52.04:466][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Breathing_Idle_Biker]
+[2023.08.12-19.52.04:466][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Breathing_Idle_Biker" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/Breathing_Idle_Biker_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.08.12-19.52.04:478][718]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/Breathing_Idle_Biker_Auto5
+[2023.08.12-19.52.04:478][718]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Breathing_Idle_Biker_Auto56828DDB64D95B2151574F29665662A9D.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/Breathing_Idle_Biker_Auto5.uasset'
+[2023.08.12-19.52.04:478][718]LogFileHelpers: Auto-saving content packages took 0.067
+[2023.08.12-19.53.36:459][981]AssetReimport: New page: Outstanding source content changes 23:53:36
+[2023.08.12-19.53.36:637][982]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo.fbx)
+[2023.08.12-19.53.36:755][982]LogEditorFactories: Performing atomic reimport of [D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo.fbx]
+[2023.08.12-19.53.36:852][982]LogFbx: Loading FBX Scene from D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo.fbx
+[2023.08.12-19.53.36:985][982]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-19.53.37:037][982]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch20
+[2023.08.12-19.53.37:039][982]LogFbx: Triangulating skeletal mesh Ch20
+[2023.08.12-19.53.37:873][982]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2023.08.12-19.53.38:895][982]LogSkeletalMesh: Section 0: Material=0, 49867 triangles
+[2023.08.12-19.53.39:013][982]LogEditorFactories: -- imported successfully
+[2023.08.12-19.53.39:019][982]LogSkeletalMesh: Building Skeletal Mesh bikermixamo...
+[2023.08.12-19.53.39:947][982]LogSkeletalMesh: Built Skeletal Mesh [0.93s] /Game/AI/bikermixamo.bikermixamo
+[2023.08.12-19.53.40:178][983]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/VBS/Unreal-Ensemble/MyProject/Content/AI/Breathing Idle Biker.fbx)
+[2023.08.12-19.53.40:211][983]LogEditorFactories: Performing atomic reimport of [D:/VBS/Unreal-Ensemble/MyProject/Content/AI/Breathing Idle Biker.fbx]
+[2023.08.12-19.53.40:226][983]LogFbx: Loading FBX Scene from D:/VBS/Unreal-Ensemble/MyProject/Content/AI/Breathing Idle Biker.fbx
+[2023.08.12-19.53.40:250][983]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-19.53.40:251][983]LogFbx: Parsing AnimStack mixamo.com
+[2023.08.12-19.53.41:038][983]LogEditorFactories: -- imported successfully
+[2023.08.12-19.53.41:115][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-19.53.41:171][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/bikermixamo" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo.uasset" SILENT=true
+[2023.08.12-19.53.41:254][984]LogSavePackage: Moving output files for package: /Game/AI/bikermixamo
+[2023.08.12-19.53.41:254][984]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/bikermixamoD01713254A2D5E7469131E91AECC3F06.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo.uasset'
+[2023.08.12-19.53.41:263][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Breathing_Idle_Biker" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Breathing_Idle_Biker.uasset" SILENT=true
+[2023.08.12-19.53.41:274][984]LogSavePackage: Moving output files for package: /Game/AI/Breathing_Idle_Biker
+[2023.08.12-19.53.41:274][984]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Breathing_Idle_BikerA784E3DA4C7BC5327784AEB708717A3F.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Breathing_Idle_Biker.uasset'
+[2023.08.12-19.53.41:285][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 2.79 sec)
+[2023.08.12-19.53.41:309][985]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.12-19.53.41:309][985]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/AI/bikermixamo.bikermixamo
+[2023.08.12-19.53.41:309][985]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/AI/Breathing_Idle_Biker.Breathing_Idle_Biker
+[2023.08.12-19.53.44:289][341]AssetReimport: Importing new asset /Game/AI/bikermixamo.
+[2023.08.12-19.53.44:289][341]AssetReimport: Importing new asset /Game/AI/Breathing_Idle_Biker.
+[2023.08.12-19.53.48:923][838]AssetReimport: New page: Outstanding source content changes 23:53:48
+[2023.08.12-19.53.48:949][838]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo.fbm/Ch20_1001_Specular.png)
+[2023.08.12-19.53.49:415][839]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo.fbm/Ch20_1001_Diffuse.png)
+[2023.08.12-19.53.49:745][839]LogTexture: Display: Building textures: /Game/AI/bikermixamo_fbm/Ch20_1001_Diffuse.Ch20_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.12-19.53.49:840][840]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo.fbm/Ch20_1001_Glossiness.png)
+[2023.08.12-19.53.50:131][841]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 D:/VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo.fbm/Ch20_1001_Normal.png)
+[2023.08.12-19.53.50:671][841]LogTexture: Display: Building textures: /Game/AI/bikermixamo_fbm/Ch20_1001_Normal.Ch20_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.12-19.53.50:757][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-19.53.50:822][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/bikermixamo_fbm/Ch20_1001_Specular" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_fbm/Ch20_1001_Specular.uasset" SILENT=true
+[2023.08.12-19.53.51:284][842]LogSavePackage: Moving output files for package: /Game/AI/bikermixamo_fbm/Ch20_1001_Specular
+[2023.08.12-19.53.51:284][842]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Ch20_1001_Specular1C5C60A94B49B0A48BA17495E668A566.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_fbm/Ch20_1001_Specular.uasset'
+[2023.08.12-19.53.51:302][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/bikermixamo_fbm/Ch20_1001_Diffuse" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_fbm/Ch20_1001_Diffuse.uasset" SILENT=true
+[2023.08.12-19.53.51:673][842]LogSavePackage: Moving output files for package: /Game/AI/bikermixamo_fbm/Ch20_1001_Diffuse
+[2023.08.12-19.53.51:673][842]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Ch20_1001_Diffuse3610F011407F0946271C74A8357A2A22.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_fbm/Ch20_1001_Diffuse.uasset'
+[2023.08.12-19.53.51:676][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/bikermixamo_fbm/Ch20_1001_Glossiness" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_fbm/Ch20_1001_Glossiness.uasset" SILENT=true
+[2023.08.12-19.53.51:770][842]LogSavePackage: Moving output files for package: /Game/AI/bikermixamo_fbm/Ch20_1001_Glossiness
+[2023.08.12-19.53.51:770][842]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Ch20_1001_Glossiness9D5EC8554F2B76D6EA3B628AE9352FDB.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_fbm/Ch20_1001_Glossiness.uasset'
+[2023.08.12-19.53.51:772][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/bikermixamo_fbm/Ch20_1001_Normal" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_fbm/Ch20_1001_Normal.uasset" SILENT=true
+[2023.08.12-19.53.52:175][842]LogSavePackage: Moving output files for package: /Game/AI/bikermixamo_fbm/Ch20_1001_Normal
+[2023.08.12-19.53.52:175][842]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Ch20_1001_NormalA5FFE7A24DD654858A7636BF666E1B70.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_fbm/Ch20_1001_Normal.uasset'
+[2023.08.12-19.53.52:183][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.42 sec (total: 4.22 sec)
+[2023.08.12-19.53.52:202][843]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.12-19.53.52:202][843]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/AI/bikermixamo_fbm/Ch20_1001_Normal.Ch20_1001_Normal
+[2023.08.12-19.53.52:202][843]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/AI/bikermixamo_fbm/Ch20_1001_Glossiness.Ch20_1001_Glossiness
+[2023.08.12-19.53.52:202][843]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/AI/bikermixamo_fbm/Ch20_1001_Diffuse.Ch20_1001_Diffuse
+[2023.08.12-19.53.52:202][843]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/AI/bikermixamo_fbm/Ch20_1001_Specular.Ch20_1001_Specular
+[2023.08.12-19.53.55:188][198]AssetReimport: Importing new asset /Game/AI/bikermixamo_fbm/Ch20_1001_Specular.
+[2023.08.12-19.53.55:189][198]AssetReimport: Importing new asset /Game/AI/bikermixamo_fbm/Ch20_1001_Diffuse.
+[2023.08.12-19.53.55:189][198]AssetReimport: Importing new asset /Game/AI/bikermixamo_fbm/Ch20_1001_Glossiness.
+[2023.08.12-19.53.55:189][198]AssetReimport: Importing new asset /Game/AI/bikermixamo_fbm/Ch20_1001_Normal.
+[2023.08.12-19.54.19:197][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.08.12-19.54.21:352][918]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.12-19.55.49:702][667]AssetReimport: New page: Outstanding source content changes 23:55:49
+[2023.08.12-19.55.49:705][667]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/VBS/Unreal-Ensemble/MyProject/Content/AI/Jumping.fbx)
+[2023.08.12-19.55.49:710][667]LogFbx: Loading FBX Scene from D:/VBS/Unreal-Ensemble/MyProject/Content/AI/Jumping.fbx
+[2023.08.12-19.55.49:727][667]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-20.35.28:973][667]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(0) Hips
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(1) Spine
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(2) Spine1
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(3) Spine2
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(4) Neck
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(5) Head
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(8) LeftArm
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(10) LeftHand
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(23) LeftHandRing1
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(24) LeftHandRing2
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(25) LeftHandRing3
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(26) LeftHandRing4
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(31) RightShoulder
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(32) RightArm
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(33) RightForeArm
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(34) RightHand
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(35) RightHandThumb1
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(36) RightHandThumb2
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(37) RightHandThumb3
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(38) RightHandThumb4
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(39) RightHandIndex1
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(40) RightHandIndex2
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(41) RightHandIndex3
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(42) RightHandIndex4
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(47) RightHandRing1
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(48) RightHandRing2
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(49) RightHandRing3
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(50) RightHandRing4
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(51) RightHandPinky1
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(52) RightHandPinky2
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(53) RightHandPinky3
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(54) RightHandPinky4
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(55) LeftUpLeg
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(56) LeftLeg
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(57) LeftFoot
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(58) LeftToeBase
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(59) LeftToe_End
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(60) RightUpLeg
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(61) RightLeg
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(62) RightFoot
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(63) RightToeBase
+[2023.08.12-20.35.28:999][667]LogFbx: SortedLinks :(64) RightToe_End
+[2023.08.12-20.35.28:999][667]LogFbx: Parsing AnimStack mixamo.com
+[2023.08.12-20.35.29:342][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-20.35.29:466][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Jumping" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Jumping.uasset" SILENT=true
+[2023.08.12-20.35.29:475][668]LogSavePackage: Moving output files for package: /Game/AI/Jumping
+[2023.08.12-20.35.29:475][668]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/JumpingC67CB07342B246B5C01575A238BB089B.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Jumping.uasset'
+[2023.08.12-20.35.29:495][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 4.37 sec)
+[2023.08.12-20.35.29:530][669]AssetCheck: New page: Asset Save: Jumping
+[2023.08.12-20.35.29:530][669]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/AI/Jumping.Jumping
+[2023.08.12-20.35.29:549][669]LogAnimationCompression: Display: Storing compressed animation data for /Game/AI/Jumping.Jumping, at AnimationSequence/03d7d2e321dff0dc355e33cdb61e21f2a0dd9c4e
+[2023.08.12-20.35.32:499][872]AssetReimport: Importing new asset /Game/AI/Jumping.
+[2023.08.12-20.35.50:537][ 55]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.08.12-20.35.51:353][124]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.08.12-20.38.48:101][252]LogContentBrowser: Attempting asset rename: bikermixamo_Anim_mixamo_com -> BikerIdle
+[2023.08.12-20.38.48:129][252]LogMetaData: Removing '/Game/AI/BikerIdle.BikerIdle' ref from Metadata '/Game/AI/bikermixamo_Anim_mixamo_com.PackageMetaData'
+[2023.08.12-20.38.48:131][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-20.38.48:194][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_BikerWalking" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/BP_BikerWalking.uasset" SILENT=true
+[2023.08.12-20.38.48:201][252]LogSavePackage: Moving output files for package: /Game/AI/BP_BikerWalking
+[2023.08.12-20.38.48:202][252]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/BP_BikerWalking8CD99DA7400D8236A57835BB801B5BB1.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/BP_BikerWalking.uasset'
+[2023.08.12-20.38.48:203][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BikerIdle" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/BikerIdle.uasset" SILENT=true
+[2023.08.12-20.38.48:215][252]LogSavePackage: Moving output files for package: /Game/AI/BikerIdle
+[2023.08.12-20.38.48:216][252]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/BikerIdleB05123A945CE42EA347E41A6414B0EB2.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/BikerIdle.uasset'
+[2023.08.12-20.38.48:226][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 4.47 sec)
+[2023.08.12-20.38.48:272][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.08.12-20.38.48:328][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.08.12-20.38.48:456][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.08.12-20.38.48:466][252]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.12-20.38.48:466][252]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/AI/BikerIdle.BikerIdle
+[2023.08.12-20.38.48:466][252]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_BikerWalking.BP_BikerWalking
+[2023.08.12-20.39.26:890][661]LogContentBrowser: Attempting asset rename: BikerIdle -> BikerWalking
+[2023.08.12-20.39.26:915][661]LogMetaData: Removing '/Game/AI/BikerWalking.BikerWalking' ref from Metadata '/Game/AI/BikerIdle.PackageMetaData'
+[2023.08.12-20.39.26:916][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-20.39.26:969][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BikerWalking" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/BikerWalking.uasset" SILENT=true
+[2023.08.12-20.39.26:980][661]LogSavePackage: Moving output files for package: /Game/AI/BikerWalking
+[2023.08.12-20.39.26:980][661]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/BikerWalking850D391742D89027C1F0E49832CE4958.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/BikerWalking.uasset'
+[2023.08.12-20.39.26:995][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.55 sec)
+[2023.08.12-20.39.27:040][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.08.12-20.39.27:068][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.08.12-20.39.27:174][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.08.12-20.39.27:181][661]AssetCheck: New page: Asset Save: BikerWalking
+[2023.08.12-20.39.27:181][661]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/AI/BikerWalking.BikerWalking
+[2023.08.12-20.41.04:736][145]BlueprintLog: New page: Compile BikerAnimator
+[2023.08.12-20.41.04:773][145]LogBlueprint: Warning: [AssetLog] /Game/AI/BikerAnimator.BikerAnimator: [Compiler] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2023.08.12-20.41.04:773][145]LogBlueprint: Warning: [AssetLog] /Game/AI/BikerAnimator.BikerAnimator: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.08.12-20.41.04:831][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.08.12-20.41.04:862][145]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.08.12-20.41.35:662][695]LogDerivedDataCache: C:/Users/jason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.183 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 596 files in 1082 folders with total size 73 MiB.
+[2023.08.12-20.41.36:677][778]BlueprintLog: New page: Compile BikerAnimator
+[2023.08.12-20.41.36:680][778]LogBlueprint: Warning: [AssetLog] /Game/AI/BikerAnimator.BikerAnimator: [Compiler] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2023.08.12-20.41.36:680][778]LogBlueprint: Warning: [AssetLog] /Game/AI/BikerAnimator.BikerAnimator: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.08.12-20.41.36:764][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.08.12-20.41.37:706][848]BlueprintLog: New page: Compile BikerAnimator
+[2023.08.12-20.41.37:714][848]LogBlueprint: Warning: [AssetLog] /Game/AI/BikerAnimator.BikerAnimator: [Compiler] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2023.08.12-20.41.37:714][848]LogBlueprint: Warning: [AssetLog] /Game/AI/BikerAnimator.BikerAnimator: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.08.12-20.41.37:806][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.08.12-20.43.15:348][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2023.08.12-20.43.15:348][144]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.064
+[2023.08.12-20.43.15:348][144]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/BikerAnimator] ([2] browsable assets)...
+[2023.08.12-20.43.15:367][144]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AI/BikerAnimator.BikerAnimator]
+[2023.08.12-20.43.15:367][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BikerAnimator]
+[2023.08.12-20.43.15:367][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BikerAnimator" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/BikerAnimator_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.08.12-20.43.15:398][144]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BikerAnimator_Auto6
+[2023.08.12-20.43.15:398][144]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/BikerAnimator_Auto610763F4A42465613E6E4FD9C489EDAA4.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/BikerAnimator_Auto6.uasset'
+[2023.08.12-20.43.15:398][144]LogFileHelpers: Auto-saving content packages took 0.055
+[2023.08.12-20.45.17:066][630]BlueprintLog: New page: Compile BikerAnimator
+[2023.08.12-20.45.17:213][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.08.12-20.53.16:263][739]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2023.08.12-20.53.16:265][739]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.048
+[2023.08.12-20.53.16:265][739]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/BikerAnimator] ([2] browsable assets)...
+[2023.08.12-20.53.16:278][739]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AI/BikerAnimator.BikerAnimator]
+[2023.08.12-20.53.16:278][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BikerAnimator]
+[2023.08.12-20.53.16:278][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BikerAnimator" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/BikerAnimator_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.08.12-20.53.16:292][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BikerAnimator_Auto7
+[2023.08.12-20.53.16:292][739]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/BikerAnimator_Auto70C86C01A4F83FF007CF4139A757B4E2A.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Autosaves/Game/AI/BikerAnimator_Auto7.uasset'
+[2023.08.12-20.53.16:292][739]LogFileHelpers: Auto-saving content packages took 0.027
+[2023.08.12-21.07.51:829][666]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AI/BikerWalking.BikerWalking
+[2023.08.12-21.07.51:831][666]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.07.51:831][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.07.51:845][666]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.12-21.07.52:003][666]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.07.52:003][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.07.52:130][666]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.07.52:130][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.07.52:145][666]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.08.12-21.07.52:166][666]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.08.12-21.08.02:027][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.08.12-21.08.04:236][417]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.12-21.08.04:423][417]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.04:423][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.08.04:439][417]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.04:439][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.08.04:445][417]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.04:445][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.08.04:510][417]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/BikerAnimator.BikerAnimator
+	Asset Type: AnimBlueprint
+[2023.08.12-21.08.05:151][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.08.12-21.08.05:180][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.08.12-21.08.05:263][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.08.12-21.08.09:944][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.08.12-21.08.09:976][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.08.12-21.08.18:614][832]LogSlate: Window 'Save Content' being destroyed
+[2023.08.12-21.08.18:623][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.08.18:683][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/bikermixamo_PhysicsAsset" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_PhysicsAsset.uasset" SILENT=true
+[2023.08.12-21.08.18:688][832]LogSavePackage: Moving output files for package: /Game/AI/bikermixamo_PhysicsAsset
+[2023.08.12-21.08.18:688][832]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/bikermixamo_PhysicsAssetE32CB1434C80A259E7A10B9A987D97B5.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_PhysicsAsset.uasset'
+[2023.08.12-21.08.18:692][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/bikermixamo_Skeleton" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_Skeleton.uasset" SILENT=true
+[2023.08.12-21.08.18:710][832]LogSavePackage: Moving output files for package: /Game/AI/bikermixamo_Skeleton
+[2023.08.12-21.08.18:710][832]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/bikermixamo_SkeletonB489704A471E048CF1A549A04D35B788.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/bikermixamo_Skeleton.uasset'
+[2023.08.12-21.08.18:716][832]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X9/YTDDY0RM8SYU7LAUQE01P4
+[2023.08.12-21.08.18:716][832]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/YTDDY0RM8SYU7LAUQE01P4E13583A8446FC40EBF259E99810D8667.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X9/YTDDY0RM8SYU7LAUQE01P4.uasset'
+[2023.08.12-21.08.18:717][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Ch20_1001_Diffuse" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_1001_Diffuse.uasset" SILENT=true
+[2023.08.12-21.08.19:374][832]LogSavePackage: Moving output files for package: /Game/AI/Ch20_1001_Diffuse
+[2023.08.12-21.08.19:374][832]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Ch20_1001_Diffuse73171A774B6A2C1C06C7B5ABAACC4F9A.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_1001_Diffuse.uasset'
+[2023.08.12-21.08.19:375][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Ch20_1001_Glossiness" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_1001_Glossiness.uasset" SILENT=true
+[2023.08.12-21.08.19:568][832]LogSavePackage: Moving output files for package: /Game/AI/Ch20_1001_Glossiness
+[2023.08.12-21.08.19:569][832]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Ch20_1001_Glossiness103F23F245B2696AADCC6CBF131505F8.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_1001_Glossiness.uasset'
+[2023.08.12-21.08.19:569][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Ch20_1001_Normal" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_1001_Normal.uasset" SILENT=true
+[2023.08.12-21.08.20:417][832]LogSavePackage: Moving output files for package: /Game/AI/Ch20_1001_Normal
+[2023.08.12-21.08.20:417][832]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Ch20_1001_Normal0461B9C1418D4A4702992DB695AC7B7B.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_1001_Normal.uasset'
+[2023.08.12-21.08.20:419][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Ch20_1001_Specular" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_1001_Specular.uasset" SILENT=true
+[2023.08.12-21.08.20:486][832]LogSavePackage: Moving output files for package: /Game/AI/Ch20_1001_Specular
+[2023.08.12-21.08.20:486][832]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Ch20_1001_Specular3AD62B37452B9F3BE5D710AE793D18BA.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_1001_Specular.uasset'
+[2023.08.12-21.08.20:487][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Ch20_body" FILE="../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_body.uasset" SILENT=true
+[2023.08.12-21.08.20:488][832]LogSavePackage: Moving output files for package: /Game/AI/Ch20_body
+[2023.08.12-21.08.20:488][832]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/Ch20_body9F95D5C543D2AE3120B2FB875D7073C0.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/AI/Ch20_body.uasset'
+[2023.08.12-21.08.20:490][832]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MY/QOKCP9VCVZ8JUVYJ6M6MWU
+[2023.08.12-21.08.20:490][832]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/QOKCP9VCVZ8JUVYJ6M6MWUF3B7732D427B717E5720FC8E52629888.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MY/QOKCP9VCVZ8JUVYJ6M6MWU.uasset'
+[2023.08.12-21.08.20:493][832]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/T7/4VLHP4EKT4C6ZOAR3LAOWN
+[2023.08.12-21.08.20:493][832]LogSavePackage: Moving '../../../../../../VBS/Unreal-Ensemble/MyProject/Saved/4VLHP4EKT4C6ZOAR3LAOWNC184A1AE44185859F00B3C8C02C7AFFA.tmp' to '../../../../../../VBS/Unreal-Ensemble/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/T7/4VLHP4EKT4C6ZOAR3LAOWN.uasset'
+[2023.08.12-21.08.20:503][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.87 sec (total: 6.43 sec)
+[2023.08.12-21.08.20:520][832]LogStall: Shutdown...
+[2023.08.12-21.08.20:543][832]LogStall: Shutdown complete.
+[2023.08.12-21.08.20:569][832]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.20:569][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.08.20:735][832]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.12-21.08.20:736][832]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.20:736][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.08.20:794][832]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.20:794][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.08.20:869][832]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.20:869][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.08.20:882][832]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.20:882][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.08.20:949][832]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2023.08.12-21.08.21:303][832]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.12-21.08.21:304][832]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/AI/bikermixamo_PhysicsAsset.bikermixamo_PhysicsAsset
+[2023.08.12-21.08.21:304][832]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/AI/bikermixamo_Skeleton.bikermixamo_Skeleton
+[2023.08.12-21.08.21:304][832]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/AI/Ch20_1001_Normal.Ch20_1001_Normal
+[2023.08.12-21.08.21:304][832]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/AI/Ch20_1001_Glossiness.Ch20_1001_Glossiness
+[2023.08.12-21.08.21:304][832]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/AI/Ch20_1001_Specular.Ch20_1001_Specular
+[2023.08.12-21.08.21:304][832]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/AI/Ch20_1001_Diffuse.Ch20_1001_Diffuse
+[2023.08.12-21.08.21:304][832]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AI/Ch20_body.Ch20_body
+[2023.08.12-21.08.21:304][832]LogContentValidation: Display: Validating /Script/NavigationSystem.RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_00D86156D711D29E01-Default
+[2023.08.12-21.08.21:304][832]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_00D86156D711D29E01_1659231970
+[2023.08.12-21.08.21:304][832]LogContentValidation: Display: Validating /Game/AI/BP_BikerWalking.BP_BikerWalking_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Biker_C_UAID_00D86156D711D29E01_1921161971
+[2023.08.12-21.08.21:330][833]Cmd: QUIT_EDITOR
+[2023.08.12-21.08.21:401][833]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.08.12-21.08.21:608][833]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.08.12-21.08.21:608][833]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.08.12-21.08.21:608][833]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.08.12-21.08.21:788][833]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.21:788][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.08.22:043][833]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.08.12-21.08.22:971][833]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.08.12-21.08.23:153][833]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.08.12-21.08.23:996][833]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.08.12-21.08.23:996][833]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.08.12-21.08.23:996][833]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2023.08.12-21.08.24:000][833]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.08.12-21.08.24:015][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.12-21.08.24:020][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.12-21.08.24:032][833]LogAudio: Display: Audio Device Manager Shutdown
+[2023.08.12-21.08.24:035][833]LogSlate: Window 'Content Browser' being destroyed
+[2023.08.12-21.08.24:269][833]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.08.12-21.08.24:313][833]LogExit: Preparing to exit.
+[2023.08.12-21.08.26:171][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.08.12-21.08.26:190][833]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:190][833]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:199][833]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:203][833]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:203][833]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:203][833]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:203][833]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:203][833]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:203][833]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:203][833]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:203][833]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:203][833]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:204][833]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:204][833]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:204][833]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:204][833]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:204][833]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:204][833]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.26:205][833]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.12-21.08.27:860][833]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:863][833]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:864][833]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:866][833]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:868][833]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:869][833]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:871][833]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:889][833]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:892][833]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:895][833]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:897][833]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:899][833]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:902][833]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.27:904][833]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.08.30:503][833]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.08.12-21.08.30:820][833]LogExit: Editor shut down
+[2023.08.12-21.08.30:822][833]LogExit: Transaction tracking system shut down
+[2023.08.12-21.08.51:383][833]LogExit: Object subsystem successfully closed.
+[2023.08.12-21.08.51:404][833]LogShaderCompilers: Display: ================================================
+[2023.08.12-21.08.51:404][833]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.12-21.08.51:404][833]LogShaderCompilers: Display: Total job queries 60, among them cache hits 0 (0.00%)
+[2023.08.12-21.08.51:404][833]LogShaderCompilers: Display: Tracking 60 distinct input hashes that result in 30 distinct outputs (50.00%)
+[2023.08.12-21.08.51:404][833]LogShaderCompilers: Display: RAM used: 1,48 MiB of 819,20 MiB budget. Usage: 0.18%
+[2023.08.12-21.08.51:404][833]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.12-21.08.51:404][833]LogShaderCompilers: Display: Shaders Compiled: 60
+[2023.08.12-21.08.51:404][833]LogShaderCompilers: Display: Jobs assigned 60, completed 60 (100.00%)
+[2023.08.12-21.08.51:404][833]LogShaderCompilers: Display: Average time worker was idle: 262.46 s
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: Time job spent in pending queue: average 1.79 s, longest 6.93 s
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: Job execution time: average 4.35 s, max 6.90 s
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: Job life time (pending + execution): average 6.14 s, max 7.55
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.80 s
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.58 jobs/batch
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: Average processing rate: 3.80 jobs/sec
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: Total thread time: 55,479 s
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: Total thread preprocess time: 25,375 s
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: Percentage time preprocessing: 45.74%
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: Effective parallelization: 3.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 1.41 sec, max 2.57 sec, min 0.66 sec)
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 1.40 sec, max 2.61 sec, min 0.55 sec)
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 1.39 sec, max 2.56 sec, min 0.63 sec)
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 1.38 sec, max 2.59 sec, min 0.57 sec)
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 1.35 sec, max 2.57 sec, min 0.51 sec)
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 10.18% of total time (compiled    4 times, average 1.41 sec, max 2.57 sec, min 0.66 sec)
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.10% of total time (compiled    4 times, average 1.40 sec, max 2.61 sec, min 0.55 sec)
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 10.00% of total time (compiled    4 times, average 1.39 sec, max 2.56 sec, min 0.63 sec)
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 9.97% of total time (compiled    4 times, average 1.38 sec, max 2.59 sec, min 0.57 sec)
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 9.74% of total time (compiled    4 times, average 1.35 sec, max 2.57 sec, min 0.51 sec)
+[2023.08.12-21.08.51:405][833]LogShaderCompilers: Display: ================================================
+[2023.08.12-21.08.51:496][833]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.08.12-21.08.52:222][833]LogVirtualization: UE::Virtualization was shutdown
+[2023.08.12-21.09.08:002][833]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1023)
+[2023.08.12-21.09.08:002][833]LogModuleManager: Shutting down and abandoning module Voice (1021)
+[2023.08.12-21.09.08:019][833]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1019)
+[2023.08.12-21.09.08:019][833]LogModuleManager: Shutting down and abandoning module AnimationEditor (1017)
+[2023.08.12-21.09.08:019][833]LogModuleManager: Shutting down and abandoning module PinnedCommandList (1015)
+[2023.08.12-21.09.08:019][833]LogModuleManager: Shutting down and abandoning module SkeletonEditor (1013)
+[2023.08.12-21.09.08:019][833]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1011)
+[2023.08.12-21.09.08:060][833]LogModuleManager: Shutting down and abandoning module SceneOutliner (1009)
+[2023.08.12-21.09.08:060][833]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1007)
+[2023.08.12-21.09.08:060][833]LogModuleManager: Shutting down and abandoning module StatusBar (1005)
+[2023.08.12-21.09.08:060][833]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1003)
+[2023.08.12-21.09.08:060][833]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1001)
+[2023.08.12-21.09.08:196][833]LogModuleManager: Shutting down and abandoning module StatsViewer (999)
+[2023.08.12-21.09.08:226][833]LogModuleManager: Shutting down and abandoning module AddContentDialog (997)
+[2023.08.12-21.09.08:237][833]LogModuleManager: Shutting down and abandoning module WidgetCarousel (996)
+[2023.08.12-21.09.08:237][833]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (993)
+[2023.08.12-21.09.08:237][833]LogModuleManager: Shutting down and abandoning module AutomationWorker (991)
+[2023.08.12-21.09.08:269][833]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (989)
+[2023.08.12-21.09.08:269][833]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (987)
+[2023.08.12-21.09.08:269][833]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (985)
+[2023.08.12-21.09.08:269][833]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (983)
+[2023.08.12-21.09.08:269][833]LogModuleManager: Shutting down and abandoning module WebMMedia (981)
+[2023.08.12-21.09.08:296][833]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (979)
+[2023.08.12-21.09.08:382][833]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (977)
+[2023.08.12-21.09.08:531][833]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (975)
+[2023.08.12-21.09.08:539][833]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (973)
+[2023.08.12-21.09.08:539][833]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (971)
+[2023.08.12-21.09.08:569][833]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (969)
+[2023.08.12-21.09.08:569][833]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (967)
+[2023.08.12-21.09.08:569][833]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (965)
+[2023.08.12-21.09.08:569][833]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (963)
+[2023.08.12-21.09.08:569][833]LogModuleManager: Shutting down and abandoning module TextureAlignMode (961)
+[2023.08.12-21.09.08:569][833]LogModuleManager: Shutting down and abandoning module BspMode (959)
+[2023.08.12-21.09.08:585][833]LogModuleManager: Shutting down and abandoning module GeometryMode (957)
+[2023.08.12-21.09.08:615][833]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (955)
+[2023.08.12-21.09.08:616][833]LogModuleManager: Shutting down and abandoning module SmartSnapping (953)
+[2023.08.12-21.09.08:616][833]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (951)
+[2023.08.12-21.09.08:670][833]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (949)
+[2023.08.12-21.09.08:843][833]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (947)
+[2023.08.12-21.09.08:874][833]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (945)
+[2023.08.12-21.09.09:555][833]LogModuleManager: Shutting down and abandoning module PlanarCut (943)
+[2023.08.12-21.09.10:157][833]LogModuleManager: Shutting down and abandoning module FractureEngine (941)
+[2023.08.12-21.09.10:447][833]LogModuleManager: Shutting down and abandoning module CharacterAI (939)
+[2023.08.12-21.09.10:447][833]LogModuleManager: Shutting down and abandoning module IKRigEditor (937)
+[2023.08.12-21.09.10:876][833]LogModuleManager: Shutting down and abandoning module ControlRigEditor (935)
+[2023.08.12-21.09.11:183][833]LogModuleManager: Shutting down and abandoning module WaveTableEditor (933)
+[2023.08.12-21.09.11:216][833]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (931)
+[2023.08.12-21.09.11:216][833]LogModuleManager: Shutting down and abandoning module GooglePADEditor (929)
+[2023.08.12-21.09.11:216][833]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (927)
+[2023.08.12-21.09.11:216][833]LogModuleManager: Shutting down and abandoning module SequenceRecorder (926)
+[2023.08.12-21.09.11:276][833]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (923)
+[2023.08.12-21.09.11:276][833]LogModuleManager: Shutting down and abandoning module SessionServices (921)
+[2023.08.12-21.09.11:277][833]LogModuleManager: Shutting down and abandoning module MeshPaint (919)
+[2023.08.12-21.09.11:439][833]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (917)
+[2023.08.12-21.09.11:872][833]LogModuleManager: Shutting down and abandoning module PlacementMode (916)
+[2023.08.12-21.09.11:934][833]LogModuleManager: Shutting down and abandoning module FoliageEdit (913)
+[2023.08.12-21.09.12:054][833]LogModuleManager: Shutting down and abandoning module LandscapeEditor (911)
+[2023.08.12-21.09.12:344][833]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (909)
+[2023.08.12-21.09.12:388][833]LogModuleManager: Shutting down and abandoning module ActorPickerMode (907)
+[2023.08.12-21.09.12:388][833]LogModuleManager: Shutting down and abandoning module ViewportSnapping (905)
+[2023.08.12-21.09.12:388][833]LogModuleManager: Shutting down and abandoning module ViewportInteraction (903)
+[2023.08.12-21.09.12:388][833]LogModuleManager: Shutting down and abandoning module ClothPainter (901)
+[2023.08.12-21.09.12:669][833]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (900)
+[2023.08.12-21.09.12:935][833]LogModuleManager: Shutting down and abandoning module LogVisualizer (897)
+[2023.08.12-21.09.13:110][833]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (895)
+[2023.08.12-21.09.13:141][833]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (893)
+[2023.08.12-21.09.13:279][833]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (892)
+[2023.08.12-21.09.13:401][833]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (890)
+[2023.08.12-21.09.13:590][833]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (887)
+[2023.08.12-21.09.13:590][833]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (885)
+[2023.08.12-21.09.13:591][833]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (883)
+[2023.08.12-21.09.13:591][833]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (881)
+[2023.08.12-21.09.13:591][833]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (879)
+[2023.08.12-21.09.13:617][833]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (877)
+[2023.08.12-21.09.13:648][833]LogModuleManager: Shutting down and abandoning module AnimationSettings (875)
+[2023.08.12-21.09.13:648][833]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (873)
+[2023.08.12-21.09.13:648][833]LogModuleManager: Shutting down and abandoning module CSVtoSVG (871)
+[2023.08.12-21.09.13:648][833]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (869)
+[2023.08.12-21.09.13:648][833]LogModuleManager: Shutting down and abandoning module EditorConfig (867)
+[2023.08.12-21.09.13:648][833]LogModuleManager: Shutting down and abandoning module EditorFramework (865)
+[2023.08.12-21.09.13:648][833]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (863)
+[2023.08.12-21.09.13:803][833]LogModuleManager: Shutting down and abandoning module TraceInsights (861)
+[2023.08.12-21.09.14:057][833]MemoryProfiler: Shutdown
+[2023.08.12-21.09.14:122][833]NetworkingProfiler: Shutdown
+[2023.08.12-21.09.14:138][833]LoadingProfiler: Shutdown
+[2023.08.12-21.09.14:140][833]TimingProfiler: Shutdown
+[2023.08.12-21.09.14:327][833]LogModuleManager: Shutting down and abandoning module TraceServices (860)
+[2023.08.12-21.09.14:538][833]LogModuleManager: Shutting down and abandoning module TraceAnalysis (859)
+[2023.08.12-21.09.14:538][833]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (855)
+[2023.08.12-21.09.14:538][833]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (854)
+[2023.08.12-21.09.14:548][833]LogModuleManager: Shutting down and abandoning module InputBindingEditor (851)
+[2023.08.12-21.09.14:555][833]LogModuleManager: Shutting down and abandoning module MergeActors (849)
+[2023.08.12-21.09.14:609][833]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (847)
+[2023.08.12-21.09.14:694][833]LogModuleManager: Shutting down and abandoning module LocalizationService (846)
+[2023.08.12-21.09.14:704][833]LogModuleManager: Shutting down and abandoning module HardwareTargeting (843)
+[2023.08.12-21.09.14:704][833]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (841)
+[2023.08.12-21.09.14:726][833]LogModuleManager: Shutting down and abandoning module UndoHistory (839)
+[2023.08.12-21.09.14:732][833]LogModuleManager: Shutting down and abandoning module XmlParser (837)
+[2023.08.12-21.09.14:766][833]LogModuleManager: Shutting down and abandoning module Blutility (835)
+[2023.08.12-21.09.14:779][833]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (833)
+[2023.08.12-21.09.14:779][833]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (832)
+[2023.08.12-21.09.14:779][833]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (829)
+[2023.08.12-21.09.14:779][833]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (828)
+[2023.08.12-21.09.14:813][833]LogModuleManager: Shutting down and abandoning module SettingsEditor (825)
+[2023.08.12-21.09.14:849][833]LogModuleManager: Shutting down and abandoning module ProjectLauncher (823)
+[2023.08.12-21.09.14:860][833]LogModuleManager: Shutting down and abandoning module SessionFrontend (821)
+[2023.08.12-21.09.14:883][833]LogModuleManager: Shutting down and abandoning module ProfilerClient (819)
+[2023.08.12-21.09.14:918][833]LogModuleManager: Shutting down and abandoning module DeviceManager (817)
+[2023.08.12-21.09.14:967][833]LogModuleManager: Shutting down and abandoning module AutomationController (815)
+[2023.08.12-21.09.15:037][833]LogModuleManager: Shutting down and abandoning module AutomationWindow (813)
+[2023.08.12-21.09.15:083][833]LogModuleManager: Shutting down and abandoning module Layers (811)
+[2023.08.12-21.09.15:133][833]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (809)
+[2023.08.12-21.09.15:133][833]LogModuleManager: Shutting down and abandoning module DetailCustomizations (807)
+[2023.08.12-21.09.15:133][833]LogModuleManager: Shutting down and abandoning module PackagesDialog (805)
+[2023.08.12-21.09.15:133][833]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (803)
+[2023.08.12-21.09.15:133][833]LogModuleManager: Shutting down and abandoning module Persona (801)
+[2023.08.12-21.09.15:133][833]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (800)
+[2023.08.12-21.09.15:133][833]LogModuleManager: Shutting down and abandoning module Kismet (797)
+[2023.08.12-21.09.15:145][833]LogModuleManager: Shutting down and abandoning module KismetWidgets (796)
+[2023.08.12-21.09.15:145][833]LogModuleManager: Shutting down and abandoning module GraphEditor (793)
+[2023.08.12-21.09.15:145][833]LogModuleManager: Shutting down and abandoning module StructViewer (791)
+[2023.08.12-21.09.15:176][833]LogModuleManager: Shutting down and abandoning module ClassViewer (789)
+[2023.08.12-21.09.15:179][833]LogModuleManager: Shutting down and abandoning module NaniteTools (787)
+[2023.08.12-21.09.15:179][833]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (785)
+[2023.08.12-21.09.15:179][833]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (783)
+[2023.08.12-21.09.15:179][833]LogModuleManager: Shutting down and abandoning module SourceControlWindows (781)
+[2023.08.12-21.09.15:263][833]LogModuleManager: Shutting down and abandoning module OutputLog (779)
+[2023.08.12-21.09.15:285][833]LogModuleManager: Shutting down and abandoning module Documentation (777)
+[2023.08.12-21.09.15:285][833]LogModuleManager: Shutting down and abandoning module LiveCoding (775)
+[2023.08.12-21.09.15:315][833]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (773)
+[2023.08.12-21.09.15:338][833]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (771)
+[2023.08.12-21.09.15:338][833]LogModuleManager: Shutting down and abandoning module MovieScene (769)
+[2023.08.12-21.09.15:429][833]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (767)
+[2023.08.12-21.09.15:475][833]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (765)
+[2023.08.12-21.09.15:475][833]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (763)
+[2023.08.12-21.09.15:475][833]LogModuleManager: Shutting down and abandoning module AudioMixer (762)
+[2023.08.12-21.09.15:475][833]LogModuleManager: Shutting down and abandoning module AudioMixerCore (761)
+[2023.08.12-21.09.15:475][833]LogModuleManager: Shutting down and abandoning module LauncherPlatform (757)
+[2023.08.12-21.09.15:475][833]LogModuleManager: Shutting down and abandoning module AnalyticsET (755)
+[2023.08.12-21.09.15:530][833]LogModuleManager: Shutting down and abandoning module PortalServices (753)
+[2023.08.12-21.09.15:530][833]LogModuleManager: Shutting down and abandoning module PortalRpc (751)
+[2023.08.12-21.09.15:530][833]LogModuleManager: Shutting down and abandoning module MessagingRpc (749)
+[2023.08.12-21.09.15:530][833]LogModuleManager: Shutting down and abandoning module AIModule (747)
+[2023.08.12-21.09.15:546][833]LogModuleManager: Shutting down and abandoning module GameplayDebugger (746)
+[2023.08.12-21.09.15:546][833]LogModuleManager: Shutting down and abandoning module AITestSuite (744)
+[2023.08.12-21.09.15:568][833]LogModuleManager: Shutting down and abandoning module NavigationSystem (742)
+[2023.08.12-21.09.15:568][833]LogModuleManager: Shutting down and abandoning module DataLayerEditor (739)
+[2023.08.12-21.09.15:611][833]LogModuleManager: Shutting down and abandoning module EditorWidgets (738)
+[2023.08.12-21.09.15:611][833]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (735)
+[2023.08.12-21.09.15:611][833]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (733)
+[2023.08.12-21.09.15:611][833]LogModuleManager: Shutting down and abandoning module TypedElementFramework (731)
+[2023.08.12-21.09.15:611][833]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (729)
+[2023.08.12-21.09.15:611][833]LogModuleManager: Shutting down and abandoning module ProfilerService (727)
+[2023.08.12-21.09.16:103][833]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (725)
+[2023.08.12-21.09.16:505][833]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (723)
+[2023.08.12-21.09.16:817][833]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (721)
+[2023.08.12-21.09.17:526][833]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (719)
+[2023.08.12-21.09.17:789][833]LogModuleManager: Shutting down and abandoning module TakesCore (717)
+[2023.08.12-21.09.17:814][833]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (715)
+[2023.08.12-21.09.17:814][833]LogModuleManager: Shutting down and abandoning module MegascansPlugin (713)
+[2023.08.12-21.09.18:017][833]LogModuleManager: Shutting down and abandoning module Bridge (711)
+[2023.08.12-21.09.18:017][833]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (709)
+[2023.08.12-21.09.18:098][833]LogModuleManager: Shutting down and abandoning module LightMixer (707)
+[2023.08.12-21.09.18:098][833]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (705)
+[2023.08.12-21.09.18:098][833]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (703)
+[2023.08.12-21.09.18:098][833]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (701)
+[2023.08.12-21.09.18:105][833]LogModuleManager: Shutting down and abandoning module CollectionManager (700)
+[2023.08.12-21.09.18:167][833]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (697)
+[2023.08.12-21.09.18:206][833]LogModuleManager: Shutting down and abandoning module InterchangeTests (695)
+[2023.08.12-21.09.18:206][833]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (693)
+[2023.08.12-21.09.18:206][833]LogModuleManager: Shutting down and abandoning module MediaPlate (691)
+[2023.08.12-21.09.18:206][833]LogModuleManager: Shutting down and abandoning module MediaCompositing (689)
+[2023.08.12-21.09.18:235][833]LogModuleManager: Shutting down and abandoning module ImgMedia (687)
+[2023.08.12-21.09.18:283][833]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (685)
+[2023.08.12-21.09.18:321][833]LogModuleManager: Shutting down and abandoning module AlembicImporter (683)
+[2023.08.12-21.09.18:347][833]LogModuleManager: Shutting down and abandoning module AlembicLibrary (682)
+[2023.08.12-21.09.18:347][833]LogModuleManager: Shutting down and abandoning module StylusInput (679)
+[2023.08.12-21.09.18:347][833]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (677)
+[2023.08.12-21.09.18:347][833]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (675)
+[2023.08.12-21.09.18:347][833]LogModuleManager: Shutting down and abandoning module PluginBrowser (673)
+[2023.08.12-21.09.18:513][833]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (671)
+[2023.08.12-21.09.18:586][833]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (669)
+[2023.08.12-21.09.18:643][833]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (667)
+[2023.08.12-21.09.18:687][833]LogModuleManager: Shutting down and abandoning module GLTFImporter (665)
+[2023.08.12-21.09.18:832][833]LogModuleManager: Shutting down and abandoning module GLTFCore (663)
+[2023.08.12-21.09.18:832][833]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (661)
+[2023.08.12-21.09.18:832][833]LogModuleManager: Shutting down and abandoning module EditorDebugTools (659)
+[2023.08.12-21.09.18:872][833]LogModuleManager: Shutting down and abandoning module CurveEditorTools (657)
+[2023.08.12-21.09.19:001][833]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (655)
+[2023.08.12-21.09.19:001][833]LogModuleManager: Shutting down and abandoning module CryptoKeys (653)
+[2023.08.12-21.09.19:001][833]LogModuleManager: Shutting down and abandoning module ChangelistReview (651)
+[2023.08.12-21.09.19:052][833]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (649)
+[2023.08.12-21.09.19:052][833]LogModuleManager: Shutting down and abandoning module TakeSequencer (647)
+[2023.08.12-21.09.19:052][833]LogModuleManager: Shutting down and abandoning module TakeMovieScene (645)
+[2023.08.12-21.09.19:052][833]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (643)
+[2023.08.12-21.09.19:052][833]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (641)
+[2023.08.12-21.09.19:052][833]LogModuleManager: Shutting down and abandoning module Paper2DEditor (639)
+[2023.08.12-21.09.19:187][833]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (637)
+[2023.08.12-21.09.19:495][833]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (635)
+[2023.08.12-21.09.19:535][833]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (633)
+[2023.08.12-21.09.19:535][833]LogModuleManager: Shutting down and abandoning module UObjectPlugin (631)
+[2023.08.12-21.09.19:535][833]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (629)
+[2023.08.12-21.09.19:626][833]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (627)
+[2023.08.12-21.09.19:639][833]LogModuleManager: Shutting down and abandoning module PluginUtils (625)
+[2023.08.12-21.09.19:661][833]LogModuleManager: Shutting down and abandoning module GitSourceControl (623)
+[2023.08.12-21.09.19:814][833]LogModuleManager: Shutting down and abandoning module DumpGPUServices (621)
+[2023.08.12-21.09.19:861][833]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (619)
+[2023.08.12-21.09.19:861][833]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (617)
+[2023.08.12-21.09.19:861][833]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (613)
+[2023.08.12-21.09.19:861][833]LogModuleManager: Shutting down and abandoning module SequencerScripting (611)
+[2023.08.12-21.09.19:861][833]LogModuleManager: Shutting down and abandoning module TemplateSequence (609)
+[2023.08.12-21.09.19:861][833]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (607)
+[2023.08.12-21.09.19:861][833]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (605)
+[2023.08.12-21.09.19:861][833]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (603)
+[2023.08.12-21.09.19:939][833]LogModuleManager: Shutting down and abandoning module InterchangeEditor (601)
+[2023.08.12-21.09.19:939][833]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (599)
+[2023.08.12-21.09.20:027][833]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (597)
+[2023.08.12-21.09.20:027][833]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (595)
+[2023.08.12-21.09.20:100][833]LogModuleManager: Shutting down and abandoning module InterchangePipelines (593)
+[2023.08.12-21.09.20:100][833]LogModuleManager: Shutting down and abandoning module InterchangeExport (591)
+[2023.08.12-21.09.20:100][833]LogModuleManager: Shutting down and abandoning module InterchangeMessages (589)
+[2023.08.12-21.09.20:100][833]LogModuleManager: Shutting down and abandoning module InterchangeImport (587)
+[2023.08.12-21.09.20:100][833]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (585)
+[2023.08.12-21.09.20:134][833]LogModuleManager: Shutting down and abandoning module InterchangeNodes (583)
+[2023.08.12-21.09.20:134][833]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (581)
+[2023.08.12-21.09.20:134][833]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (579)
+[2023.08.12-21.09.20:172][833]LogModuleManager: Shutting down and abandoning module UVEditorTools (577)
+[2023.08.12-21.09.20:251][833]LogModuleManager: Shutting down and abandoning module UVEditor (575)
+[2023.08.12-21.09.20:414][833]LogModuleManager: Shutting down and abandoning module PresetAsset (573)
+[2023.08.12-21.09.20:414][833]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (571)
+[2023.08.12-21.09.20:414][833]LogOpenImageDenoise: OIDN shutting down
+[2023.08.12-21.09.20:414][833]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (569)
+[2023.08.12-21.09.20:479][833]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (567)
+[2023.08.12-21.09.20:510][833]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (565)
+[2023.08.12-21.09.20:581][833]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (563)
+[2023.08.12-21.09.20:639][833]LogModuleManager: Shutting down and abandoning module MeshLODToolset (561)
+[2023.08.12-21.09.20:691][833]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (559)
+[2023.08.12-21.09.20:806][833]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (557)
+[2023.08.12-21.09.20:827][833]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (555)
+[2023.08.12-21.09.20:863][833]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (553)
+[2023.08.12-21.09.20:863][833]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (551)
+[2023.08.12-21.09.20:863][833]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (550)
+[2023.08.12-21.09.20:863][833]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (548)
+[2023.08.12-21.09.20:863][833]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (545)
+[2023.08.12-21.09.20:863][833]LogModuleManager: Shutting down and abandoning module DataflowNodes (543)
+[2023.08.12-21.09.20:863][833]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (541)
+[2023.08.12-21.09.20:863][833]LogModuleManager: Shutting down and abandoning module DataflowEditor (539)
+[2023.08.12-21.09.20:898][833]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (537)
+[2023.08.12-21.09.20:898][833]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (535)
+[2023.08.12-21.09.20:898][833]LogModuleManager: Shutting down and abandoning module ChaosNiagara (533)
+[2023.08.12-21.09.20:911][833]LogModuleManager: Shutting down and abandoning module FractureEditor (531)
+[2023.08.12-21.09.21:157][833]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (529)
+[2023.08.12-21.09.21:157][833]LogModuleManager: Shutting down and abandoning module BackChannel (527)
+[2023.08.12-21.09.21:236][833]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (525)
+[2023.08.12-21.09.21:236][833]LogModuleManager: Shutting down and abandoning module AutomationUtils (523)
+[2023.08.12-21.09.21:258][833]LogModuleManager: Shutting down and abandoning module ControlRigSpline (521)
+[2023.08.12-21.09.21:258][833]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (519)
+[2023.08.12-21.09.21:346][833]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (517)
+[2023.08.12-21.09.21:346][833]LogModuleManager: Shutting down and abandoning module VariantManager (515)
+[2023.08.12-21.09.21:502][833]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (513)
+[2023.08.12-21.09.21:503][833]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (511)
+[2023.08.12-21.09.21:539][833]LogModuleManager: Shutting down and abandoning module SynthesisEditor (509)
+[2023.08.12-21.09.21:539][833]LogModuleManager: Shutting down and abandoning module ResonanceAudio (507)
+[2023.08.12-21.09.21:539][833]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (505)
+[2023.08.12-21.09.21:579][833]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (503)
+[2023.08.12-21.09.21:579][833]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (501)
+[2023.08.12-21.09.21:672][833]LogModuleManager: Shutting down and abandoning module ModelingOperators (499)
+[2023.08.12-21.09.21:701][833]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (497)
+[2023.08.12-21.09.21:730][833]LogModuleManager: Shutting down and abandoning module ModelingComponents (495)
+[2023.08.12-21.09.21:792][833]LogModuleManager: Shutting down and abandoning module GeometryFramework (494)
+[2023.08.12-21.09.21:815][833]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (491)
+[2023.08.12-21.09.21:854][833]LogModuleManager: Shutting down and abandoning module MeshModelingTools (489)
+[2023.08.12-21.09.21:962][833]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (487)
+[2023.08.12-21.09.21:962][833]LogModuleManager: Shutting down and abandoning module InputDebugging (485)
+[2023.08.12-21.09.21:962][833]LogModuleManager: Shutting down and abandoning module GooglePAD (483)
+[2023.08.12-21.09.21:962][833]LogModuleManager: Shutting down and abandoning module DynamicMesh (481)
+[2023.08.12-21.09.22:002][833]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (479)
+[2023.08.12-21.09.22:013][833]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (477)
+[2023.08.12-21.09.22:013][833]LogModuleManager: Shutting down and abandoning module GeometryCache (475)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (473)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (471)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (469)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module AudioCapture (467)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (466)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module AssetTags (463)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (461)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (459)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module AppleImageUtils (457)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module AndroidPermission (455)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (453)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (451)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (449)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module TraceUtilities (447)
+[2023.08.12-21.09.22:065][833]LogModuleManager: Shutting down and abandoning module InputEditor (445)
+[2023.08.12-21.09.22:364][833]LogModuleManager: Shutting down and abandoning module BlueprintGraph (444)
+[2023.08.12-21.09.22:364][833]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (441)
+[2023.08.12-21.09.22:718][833]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (439)
+[2023.08.12-21.09.22:978][833]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (437)
+[2023.08.12-21.09.22:978][833]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (435)
+[2023.08.12-21.09.23:305][833]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (433)
+[2023.08.12-21.09.23:305][833]LogModuleManager: Shutting down and abandoning module FacialAnimation (431)
+[2023.08.12-21.09.23:305][833]LogModuleManager: Shutting down and abandoning module DataValidation (429)
+[2023.08.12-21.09.23:305][833]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (427)
+[2023.08.12-21.09.23:410][833]LogModuleManager: Shutting down and abandoning module TreeMap (426)
+[2023.08.12-21.09.23:732][833]LogModuleManager: Shutting down and abandoning module Paper2D (423)
+[2023.08.12-21.09.23:836][833]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (421)
+[2023.08.12-21.09.23:836][833]LogModuleManager: Shutting down and abandoning module Niagara (419)
+[2023.08.12-21.09.23:846][833]LogModuleManager: Shutting down and abandoning module NiagaraEditor (418)
+[2023.08.12-21.09.23:982][833]LogModuleManager: Shutting down and abandoning module ContentBrowser (417)
+[2023.08.12-21.09.24:086][833]LogModuleManager: Shutting down and abandoning module ContentBrowserData (416)
+[2023.08.12-21.09.24:086][833]LogModuleManager: Shutting down and abandoning module NiagaraCore (411)
+[2023.08.12-21.09.24:086][833]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (409)
+[2023.08.12-21.09.24:128][833]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (407)
+[2023.08.12-21.09.24:128][833]LogModuleManager: Shutting down and abandoning module AnimationSharing (405)
+[2023.08.12-21.09.24:128][833]LogModuleManager: Shutting down and abandoning module ActorSequence (403)
+[2023.08.12-21.09.24:129][833]LogModuleManager: Shutting down and abandoning module UdpMessaging (401)
+[2023.08.12-21.09.24:229][833]LogModuleManager: Shutting down and abandoning module TcpMessaging (399)
+[2023.08.12-21.09.24:397][833]LogModuleManager: Shutting down and abandoning module GameplayCameras (397)
+[2023.08.12-21.09.24:397][833]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (395)
+[2023.08.12-21.09.24:882][833]LogModuleManager: Shutting down and abandoning module PBIK (393)
+[2023.08.12-21.09.24:882][833]LogModuleManager: Shutting down and abandoning module FullBodyIK (391)
+[2023.08.12-21.09.24:882][833]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (389)
+[2023.08.12-21.09.24:882][833]LogModuleManager: Shutting down and abandoning module TakeRecorder (388)
+[2023.08.12-21.09.25:013][833]LogModuleManager: Shutting down and abandoning module LevelEditor (386)
+[2023.08.12-21.09.25:082][833]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (385)
+[2023.08.12-21.09.25:189][833]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (383)
+[2023.08.12-21.09.25:189][833]LogModuleManager: Shutting down and abandoning module MainFrame (381)
+[2023.08.12-21.09.25:189][833]LogModuleManager: Shutting down and abandoning module HotReload (380)
+[2023.08.12-21.09.25:299][833]LogModuleManager: Shutting down and abandoning module ChaosCaching (375)
+[2023.08.12-21.09.25:299][833]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (373)
+[2023.08.12-21.09.25:299][833]LogModuleManager: Shutting down and abandoning module IKRig (371)
+[2023.08.12-21.09.25:299][833]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (369)
+[2023.08.12-21.09.25:299][833]LogModuleManager: Shutting down and abandoning module ControlRig (367)
+[2023.08.12-21.09.25:299][833]LogModuleManager: Shutting down and abandoning module Constraints (366)
+[2023.08.12-21.09.25:299][833]LogModuleManager: Shutting down and abandoning module LevelSequence (364)
+[2023.08.12-21.09.25:299][833]LogModuleManager: Shutting down and abandoning module AnimationData (361)
+[2023.08.12-21.09.25:299][833]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (359)
+[2023.08.12-21.09.25:413][833]LogModuleManager: Shutting down and abandoning module Synthesis (357)
+[2023.08.12-21.09.25:460][833]LogModuleManager: Shutting down and abandoning module SoundFields (355)
+[2023.08.12-21.09.25:460][833]LogModuleManager: Shutting down and abandoning module SignificanceManager (353)
+[2023.08.12-21.09.25:460][833]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (351)
+[2023.08.12-21.09.25:460][833]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (349)
+[2023.08.12-21.09.25:460][833]LogModuleManager: Shutting down and abandoning module MetasoundEditor (347)
+[2023.08.12-21.09.25:668][833]LogModuleManager: Shutting down and abandoning module ToolMenus (346)
+[2023.08.12-21.09.25:668][833]LogModuleManager: Shutting down and abandoning module AudioWidgets (344)
+[2023.08.12-21.09.25:669][833]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (343)
+[2023.08.12-21.09.25:723][833]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (339)
+[2023.08.12-21.09.25:809][833]LogModuleManager: Shutting down and abandoning module MetasoundEngine (337)
+[2023.08.12-21.09.25:809][833]LogModuleManager: Shutting down and abandoning module WaveTable (336)
+[2023.08.12-21.09.25:809][833]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (334)
+[2023.08.12-21.09.25:867][833]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (331)
+[2023.08.12-21.09.25:867][833]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (329)
+[2023.08.12-21.09.25:970][833]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (327)
+[2023.08.12-21.09.26:003][833]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (325)
+[2023.08.12-21.09.26:003][833]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (323)
+[2023.08.12-21.09.26:003][833]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (321)
+[2023.08.12-21.09.26:003][833]LogModuleManager: Shutting down and abandoning module CableComponent (319)
+[2023.08.12-21.09.26:024][833]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (317)
+[2023.08.12-21.09.26:024][833]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (316)
+[2023.08.12-21.09.26:024][833]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (313)
+[2023.08.12-21.09.26:024][833]LogModuleManager: Shutting down and abandoning module SignalProcessing (312)
+[2023.08.12-21.09.26:076][833]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (309)
+[2023.08.12-21.09.26:076][833]LogModuleManager: Shutting down and abandoning module EnhancedInput (307)
+[2023.08.12-21.09.26:076][833]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (305)
+[2023.08.12-21.09.26:120][833]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2023.08.12-21.09.26:120][833]LogModuleManager: Shutting down and abandoning module AndroidFileServer (301)
+[2023.08.12-21.09.26:120][833]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (299)
+[2023.08.12-21.09.26:121][833]LogModuleManager: Shutting down and abandoning module PacketHandler (297)
+[2023.08.12-21.09.26:121][833]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (295)
+[2023.08.12-21.09.26:199][833]LogModuleManager: Shutting down and abandoning module AnimGraph (293)
+[2023.08.12-21.09.26:199][833]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2023.08.12-21.09.26:199][833]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2023.08.12-21.09.26:278][833]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2023.08.12-21.09.26:278][833]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2023.08.12-21.09.26:278][833]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2023.08.12-21.09.26:328][833]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2023.08.12-21.09.26:328][833]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2023.08.12-21.09.26:328][833]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2023.08.12-21.09.26:328][833]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2023.08.12-21.09.26:468][833]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2023.08.12-21.09.26:468][833]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2023.08.12-21.09.26:618][833]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2023.08.12-21.09.26:618][833]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2023.08.12-21.09.26:663][833]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2023.08.12-21.09.26:687][833]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2023.08.12-21.09.26:699][833]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2023.08.12-21.09.26:722][833]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2023.08.12-21.09.26:722][833]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2023.08.12-21.09.26:750][833]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2023.08.12-21.09.26:750][833]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2023.08.12-21.09.26:751][833]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2023.08.12-21.09.26:751][833]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2023.08.12-21.09.26:751][833]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2023.08.12-21.09.26:765][833]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2023.08.12-21.09.26:765][833]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2023.08.12-21.09.26:765][833]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2023.08.12-21.09.26:765][833]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2023.08.12-21.09.26:796][833]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2023.08.12-21.09.26:796][833]LogModuleManager: Shutting down and abandoning module Core (233)
+[2023.08.12-21.09.26:796][833]LogModuleManager: Shutting down and abandoning module AssetDefinition (231)
+[2023.08.12-21.09.26:796][833]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2023.08.12-21.09.26:978][833]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2023.08.12-21.09.27:040][833]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2023.08.12-21.09.27:242][833]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2023.08.12-21.09.27:242][833]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2023.08.12-21.09.27:271][833]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2023.08.12-21.09.27:301][833]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2023.08.12-21.09.27:301][833]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2023.08.12-21.09.27:327][833]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2023.08.12-21.09.27:327][833]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2023.08.12-21.09.27:327][833]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2023.08.12-21.09.27:355][833]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2023.08.12-21.09.27:539][833]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2023.08.12-21.09.27:560][833]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2023.08.12-21.09.27:590][833]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2023.08.12-21.09.27:600][833]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2023.08.12-21.09.27:600][833]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (195)
+[2023.08.12-21.09.27:624][833]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2023.08.12-21.09.27:678][833]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2023.08.12-21.09.27:678][833]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2023.08.12-21.09.27:719][833]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2023.08.12-21.09.28:195][833]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2023.08.12-21.09.29:541][833]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2023.08.12-21.09.29:778][833]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2023.08.12-21.09.29:778][833]LogModuleManager: Shutting down and abandoning module AudioFormatBink (180)
+[2023.08.12-21.09.29:778][833]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (177)
+[2023.08.12-21.09.29:957][833]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (175)
+[2023.08.12-21.09.29:957][833]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (173)
+[2023.08.12-21.09.29:957][833]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (171)
+[2023.08.12-21.09.29:957][833]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.08.12-21.09.29:957][833]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (167)
+[2023.08.12-21.09.30:062][833]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (165)
+[2023.08.12-21.09.30:062][833]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (163)
+[2023.08.12-21.09.30:062][833]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (161)
+[2023.08.12-21.09.30:091][833]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (159)
+[2023.08.12-21.09.30:091][833]LogModuleManager: Shutting down and abandoning module TextureFormat (157)
+[2023.08.12-21.09.30:091][833]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2023.08.12-21.09.30:138][833]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (154)
+[2023.08.12-21.09.30:230][833]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (152)
+[2023.08.12-21.09.30:230][833]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (150)
+[2023.08.12-21.09.30:230][833]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2023.08.12-21.09.30:230][833]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2023.08.12-21.09.30:283][833]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (144)
+[2023.08.12-21.09.30:283][833]LogModuleManager: Shutting down and abandoning module TurnkeySupport (141)
+[2023.08.12-21.09.30:283][833]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2023.08.12-21.09.30:283][833]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2023.08.12-21.09.30:283][833]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (134)
+[2023.08.12-21.09.30:283][833]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (132)
+[2023.08.12-21.09.30:283][833]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (131)
+[2023.08.12-21.09.30:283][833]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2023.08.12-21.09.30:283][833]LogModuleManager: Shutting down and abandoning module GeometryCore (127)
+[2023.08.12-21.09.30:395][833]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2023.08.12-21.09.30:415][833]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2023.08.12-21.09.30:445][833]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2023.08.12-21.09.30:508][833]LogModuleManager: Shutting down and abandoning module D3D12RHI (118)
+[2023.08.12-21.09.30:508][833]LogModuleManager: Shutting down and abandoning module WmfMedia (116)
+[2023.08.12-21.09.30:529][833]LogModuleManager: Shutting down and abandoning module Media (115)
+[2023.08.12-21.09.30:534][833]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (112)
+[2023.08.12-21.09.30:603][833]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (110)
+[2023.08.12-21.09.30:603][833]LogModuleManager: Shutting down and abandoning module NiagaraShader (108)
+[2023.08.12-21.09.30:603][833]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (106)
+[2023.08.12-21.09.30:651][833]RenderDocPlugin: plugin has been unloaded.
+[2023.08.12-21.09.30:651][833]LogModuleManager: Shutting down and abandoning module PixWinPlugin (104)
+[2023.08.12-21.09.30:799][833]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (102)
+[2023.08.12-21.09.30:799][833]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (100)
+[2023.08.12-21.09.30:799][833]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (98)
+[2023.08.12-21.09.30:799][833]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (96)
+[2023.08.12-21.09.30:905][833]LogModuleManager: Shutting down and abandoning module XMPP (91)
+[2023.08.12-21.09.30:932][833]LogModuleManager: Shutting down and abandoning module WebSockets (90)
+[2023.08.12-21.09.31:155][833]LogModuleManager: Shutting down and abandoning module HTTP (87)
+[2023.08.12-21.09.31:155][833]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.08.12-21.09.31:155][833]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B12EE65DC-46B8-FC4B-C8BA-E7A565C67B66%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=d22877ff4050c5ffb3dae5b7fa6652b9%7Ca3f772f48c24478a9d3a5880ab7c8816%7Ca3eba18c-578b-4569-80b9-ef266c672035&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.08.12-21.09.31:175][833]LogModuleManager: Shutting down and abandoning module SSL (86)
+[2023.08.12-21.09.31:182][833]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (82)
+[2023.08.12-21.09.31:215][833]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (80)
+[2023.08.12-21.09.31:251][833]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (78)
+[2023.08.12-21.09.31:343][833]LogModuleManager: Shutting down and abandoning module ChaosCloth (76)
+[2023.08.12-21.09.31:412][833]LogModuleManager: Shutting down and abandoning module VariantManagerContent (74)
+[2023.08.12-21.09.31:412][833]LogModuleManager: Shutting down and abandoning module GLTFExporter (72)
+[2023.08.12-21.09.31:453][833]LogModuleManager: Shutting down and abandoning module DatasmithContent (70)
+[2023.08.12-21.09.31:453][833]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (68)
+[2023.08.12-21.09.31:453][833]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2023.08.12-21.09.31:453][833]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (64)
+[2023.08.12-21.09.31:453][833]LogModuleManager: Shutting down and abandoning module ChunkDownloader (62)
+[2023.08.12-21.09.31:533][833]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2023.08.12-21.09.31:533][833]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (58)
+[2023.08.12-21.09.31:630][833]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (56)
+[2023.08.12-21.09.31:701][833]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2023.08.12-21.09.31:717][833]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2023.08.12-21.09.31:898][833]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2023.08.12-21.09.31:971][833]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2023.08.12-21.09.31:971][833]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2023.08.12-21.09.31:971][833]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.08.12-21.09.32:033][833]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.08.12-21.09.32:086][833]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.08.12-21.09.32:211][833]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.08.12-21.09.32:532][833]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.08.12-21.09.32:532][833]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.08.12-21.09.32:569][833]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.08.12-21.09.32:569][833]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.08.12-21.09.32:569][833]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.08.12-21.09.32:569][833]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.08.12-21.09.32:569][833]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.08.12-21.09.32:718][833]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.08.12-21.09.32:718][833]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.08.12-21.09.32:735][833]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.08.12-21.09.32:736][833]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.08.12-21.09.32:736][833]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.08.12-21.09.32:783][833]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.08.12-21.09.32:783][833]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.08.12-21.09.32:783][833]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.08.12-21.09.32:861][833]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.08.12-21.09.32:861][833]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.08.12-21.09.33:163][833]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
