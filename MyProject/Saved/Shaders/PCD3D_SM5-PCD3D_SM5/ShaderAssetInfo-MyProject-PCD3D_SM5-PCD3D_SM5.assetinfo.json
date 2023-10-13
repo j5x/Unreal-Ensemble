@@ -1,0 +1,921 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "063790344C62B520A5E3E0C2D62F7A9E8DE1932B",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6F5D7A35238D5A57901D6BA2481BD3D4199B04F9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "584DE1221FC59EF720FAE2F2B7AAC827300DD7CA",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "3A40243A0DB13753F782B84F4EA528AD76FB8505",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "ABF0AE8B4D6460BF57EE440645BDAB99C3B09229",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C237CB833FF8A4F89CC8E610EF0CB72116F44243",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A072F575B5101B6594BE5C09E0C9954FA83A779E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EA4F587680326F515A68BB9AF9A9FDD4522A2B7A",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2ACCC903A21F404939F681368E78901A91590DEF",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "10DDD402E5FEEFD1C022A04523AABB782C6FABAD",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E9D613A309CB6E058F7155E683045471DA392153",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "D76802C1D4B7B22752EE4C82439F6D5D80AF4DC5",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "51C49E856998C97BC44555FF6FA53275B6467641",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BD084FDF51FE7A95DCB1F3D778FD8AB3408D2976",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "B2AEF208D4B8C8234CA3652D79DF9EC8C54C0AE6",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BEDE204043759A4417B1F721E963909F70983615",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3DA22456C0A9B98F3AFC75079626E6F558599F3F",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "E5FEC9750BB2EBC55BB4FCDDF458DD41C9DF5854",
+			"Assets": [
+				"/Game/Vehicles/SportsCar/Materials/M_SportsCar_Lights"
+			]
+		},
+		{
+			"ShaderMapHash": "C657C9E645E138E05235C942A4D3FFCD47F6F07F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "023AFC096EEC683AFB4F0537AECC3B4D97649605",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "8FB9543E269BC057F244AE872E00D686C3C6828F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "F737EF8B48D36D5B5458E9939191396501EE7177",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "6FBFB1E188D51DEEFF27C2F7C599A92050BEC553",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "373A38BB24E826A65AC6523665E0E0FCBA4799C8",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
+			]
+		},
+		{
+			"ShaderMapHash": "C7414FCC932106EC125EB023C32214D32EB26D12",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "655BE9966180ADC5BF9A2BFF45F1A5E06CB2D15A",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "3441A39AC281C00B1BAD8B85A3724583A5060616",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "A74059B37245A824A7DB0EB463D14784B094E070",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "EF157F4AA220EFBC1696F7A05EB9FC5EF26AC1BA",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "9D9B5E5F3E9EA903B4C2BDFB4FC28BE97CFBC37F",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+			]
+		},
+		{
+			"ShaderMapHash": "F3FB337B7F22CC03D704FF18C6442933BE536C7E",
+			"Assets": [
+				"/Engine/TemplateResources/M_Template_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "48B09A2D1313D703FECC1282EF233010166171A3",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "6707F3E294D4B46C3A02DB7952B605FD3EE5069E",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DE6E354202800737CD8129D30065844EEFB19E0F",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "E7327DBFC398027DAAD38D31BAFFD46059A76713",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0EBA8A6C0D8E3E26A4EBB0AA81B97B7038677996",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "95B0B952FAE8EF592C9E5DCE72519100E8DC75CF",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "912737B039761A955163A7379166164F9B218665",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E6AD92431E92E425DEBDC6C351918C071876255B",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "0EA8A5E60DD1620D323C03E4524469DFF8702B3B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "45188E309899647752D37C206AECF95089CE2A98",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "41634F24FA29196A43824CAFCD8CE5CF4F1C9F80",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "BE25E6496A289E7C74B4543C3B0DF63601EC2C1A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "59E4224C6D50D9B292AD0A1EC1B28504286E2265",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4F16769C5120C494806B96956F03155F2E7F700F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0AB7A88037574B4907EDAB689BA83BFDA5266BBC",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A9009B2DFC697CC2AD4A13946B4EFA972550267C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "9DD250B077024772F4C053F7491147A6F5B86FF8",
+			"Assets": [
+				"/Game/AI/biker/Ch20_body"
+			]
+		},
+		{
+			"ShaderMapHash": "48674F62C86011014A12735CC82C9525540634EA",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "8C8187CB3CB377F2E8E241F78FDCE5CD7114CB9A",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "62D3DF209AC4E17A9A316F3E4664ABA1B6ACC897",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6A813BDE33ED7863A74071DBFB67E617374AF8F4",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "5AA2E49BF5C2EBCE05A863259D05BBF785BC6A42",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "8390F8ED53215D39D759E8F4B22840711DDB9462",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "33CECDB97619F3FF8280DD31214ED3244EED1FCA",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "A0E58668C239FEAB74F7678E7207C0046F8D97D8",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "0C8E76C1899A0D566BAA450BF5DE3796653138A7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Poured"
+			]
+		},
+		{
+			"ShaderMapHash": "F50BDA2BC230EFFAB13B3B305BD4008ABD4CC66C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
+			"ShaderMapHash": "24417512774FC2CB9B4F71EB0F107B73E6608DA6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Grime"
+			]
+		},
+		{
+			"ShaderMapHash": "0319C20CC1428D512715198E47309E0D6BA07AB5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "344D0203CE386CD147EE4CF66BF200872F3526F1",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
+			]
+		},
+		{
+			"ShaderMapHash": "2E7006A393834DCA66B2DDABF1B585526BFC2D12",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "AB46F231D62E06F2B11C12AD566C5CCB27C1DF1E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "CA395931E4DED52870D6D300D16B6B774E5B8821",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "D021F040B021EE8ACA233BFD588B0DBA4224DD06",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Bush"
+			]
+		},
+		{
+			"ShaderMapHash": "B202FB079C1A331BD4CEFC03013D601A14C793CF",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "572DB623B8566099E7D1BB71EB7B8C2467DD3200",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "330363A52F0C3D1D785A46E6C1F9823ABF8024CF",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp",
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "665F9E86F233519A1697608ED7CA614CADF2289A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "994FC39D33D9B3C3BE54AF8B9EF2B9E3274EC355",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "840C3AC200A1A4086AC379A45350EEF858431804",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "5012315E9FD8C10606837043380BBF0B26488E24",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "E96BFC8CCCC85BAF2DC57215F644775AB1C14AE3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "DB9BE88AD9B17B8E8082553418E0D1FAD1E5B68C",
+			"Assets": [
+				"/Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C91CD9CD83FC276F863201C96A8898D667A17CD2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "6E827DBD71BC7789C977D8E103CBB03441228995",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "FB2947EF2DECB29E3125FA9D0504F3192843C7CB",
+			"Assets": [
+				"/Game/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "D2BE8700E1C9E9384C856FF160C3311D46C51A2D",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "E17E4719C1D09F569ACB1BEADABE989DB8DC837C",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "3CDE6831F91C0875CA6D2E28BA8B03A74DFCB69A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "3DB0DDC953AD4AFD853F5FD57A8869DE1330351B",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "34CD30CE9EE389FD95FEE02C207CCEF1149FAEB3",
+			"Assets": [
+				"/Game/Vehicles/SportsCar/Materials/MI_SportsCar_Chassis"
+			]
+		},
+		{
+			"ShaderMapHash": "5D095E91ACAFA7445EB6D6C424EDF61B77620987",
+			"Assets": [
+				"/Game/Track/M_Track"
+			]
+		},
+		{
+			"ShaderMapHash": "E7543FE4C0B73622CB14A3695D7965E99F35103F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "EFF545977999C003801FC0A656F7E3A61FD66D02",
+			"Assets": [
+				"/Game/Vehicles/SportsCar/Materials/M_SportsCar_Wheel"
+			]
+		},
+		{
+			"ShaderMapHash": "DE9EFBCD112CB53DAFAB076A1165CF6A2006F3E5",
+			"Assets": [
+				"/Game/Vehicles/SportsCar/Materials/M_SportsCar"
+			]
+		},
+		{
+			"ShaderMapHash": "B6725FACA1A34F71543A99E7A3A2CE2B12F94220",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "24C1B26EABBD83C10240BBA54D3691B73E858649",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1FDB9448CF4C05DB9C9E488491D22401FBEC2491",
+			"Assets": [
+				"/Game/Vehicles/OffroadCar/Materials/M_OffroadCar_Wheel"
+			]
+		},
+		{
+			"ShaderMapHash": "99D4A3E1BAEE282087369D7AE2D072929D0F2255",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "FDBF89BDA0E8C0FDEED9B476A1B5EC2984628384",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "D975E021FA9F06A62216E2AC8ACFEE86AE2120E3",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "D58831756FD49F3AF0ED0A9244CB585F37BE5FA8",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "5D6A21C5EB9F01F4DBE8D37222056F222AC2A06C",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "7C799BAA59DDDAA84B96CA0F4F79AF5EA19CC462",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "D3D8CD76411F78D76C4D4C95F4648E4D07C44F7F",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "4155CD32FAEDD1FC8244198963AA78ADC90C8A06",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "94723C597AC40C512B4F54A96FE335199D880B08",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "66A93315FFF217BC8FD93F6940C0771BD6F7CDCE",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "18121DE1F140A1F65F8B040CAF82487A9415A032",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "971552B20940CBD42A49884E910F1EEB045A5434",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Panel"
+			]
+		},
+		{
+			"ShaderMapHash": "64C3216205FAEE4145E5AA6EBC407DFEDEC19EC2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "3DEBDE80CB1A89D131AACD834E6C2942B0909FB7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Slate"
+			]
+		},
+		{
+			"ShaderMapHash": "2CC9F0954D9AF715F938A2DDBE67519012DADB5C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "C420E5E3905F107156C5A9860F3F47EDC807BF5E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "29B5050937B955D55CFF6B354629C51FB750AFAC",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "B7F54A08FF6254662CEDD3FF661CEF16D264BE2A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "62D16D7A5FF67E61B1C2D34E075B9696808C2FB8",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "55815583E39695C38AA1D831C3535025858AD985",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "EDD6265D8CBBCB960507E8D11BFF69D8387F8BA7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "213D31185467DBFA1FA9A593BE88C899265C42E6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "E3DBD5A248F3060C480062EC1E3CA4E64568C55F",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "E79E824068695A64622B7A826C29E329B6EA2BA6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "ED31FB807CA82E677B54C0C63027A7E971876C71",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "3C2EBEDE1A4533521D4324AD3A4240218E4E5D61",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "298521D4F01DC2F61A5FA1E75F2E0279ECFC7BC9",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "9BFBD7F3BBF09683FF580A63D75A321D64EB486C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "145BEF8625A0833A61672A98E19464CFBE63C221",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "A3B778EB9FCD1D6C0A0ACC18314F5575E95B7955",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
+			]
+		},
+		{
+			"ShaderMapHash": "D52A202884E6A6254C88D59AFDB37C6B961EA128",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "0C593335B426D9FA2CCB8BE3371E9D5B0C06FC8C",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "C78CF843AF455E0FE229E895E9FC527B0094011D",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "67FCAEABE8E217BE02E4B8BAFF9409E015629FFF",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/M_Mannequin",
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01"
+			]
+		},
+		{
+			"ShaderMapHash": "BDE30134A1800CDBDC83502FD98307D9BC784B13",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "0A4B3F9A7707D04D7BCA42D3783C746C00D16CB6",
+			"Assets": [
+				"/Game/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "9C244D03B5C29C5567F2D55B098443219C5247EC",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "694BDEBF7D86EE2BD3B14820174D877176451EF8",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "6A0CAD2B022475E23C83CF431974EE8DCA260F37",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "53F8BE6B5D1DEE59D4838C11D52EAE81703FEE60",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "3F28350DF4C7CBF6391AFCBBBB57E49A9A77A4A0",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "B8334057B24E8E9C168F1B8DFADF311CA2BCE617",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "85D5EB5BFF1CA1FEAF8C92B13E40E27D7CACDE57",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "684E7798EEEE8504ED2F41DB037085BA7F3E39AB",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "589D9671BFC74E9DA16888264C528FA30FEC8D8A",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "B4DA5476210491D36ADD42C61E8B38C8FF8E6B02",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "4948B4C41932959FD1BCC8935AB5D50E0B650F42",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "470EB0BF4DC04532365FEEEDB60A9461A7EE607E",
+			"Assets": [
+				"/Game/VehicleTemplate/Maps/VehicleExampleMap"
+			]
+		},
+		{
+			"ShaderMapHash": "140180DA8817D9266820FB67590FEDE92122791B",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0764EBDE97B5E63DF68916C4A0A1112F02E2C61D",
+			"Assets": [
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X3_Y-3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-3_Y0",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X3_Y1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X1_Y-3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X0_Y0",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X1_Y0",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X2_Y3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-1_Y-3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-4_Y1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-1_Y2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X3_Y-1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-1_Y1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X2_Y-4",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X0_Y-1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-4_Y3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-2_Y2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-2_Y-4",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X2_Y2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X2_Y-3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-1_Y3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X3_Y3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X2_Y0",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-3_Y3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-3_Y-4",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-2_Y1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X2_Y-2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-2_Y3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X0_Y-2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X3_Y0",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X2_Y1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X1_Y-4",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X0_Y3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-1_Y-2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X3_Y2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-4_Y-2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-1_Y0",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-3_Y1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-2_Y-3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-3_Y-1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-1_Y-4",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-2_Y0",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-3_Y-3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-4_Y-1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-2_Y-1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-4_Y0",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-4_Y-4",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X0_Y1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-2_Y-2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X0_Y-3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X1_Y2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X1_Y-2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-4_Y2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-3_Y-2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-1_Y-1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X1_Y3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-3_Y2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X1_Y1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X3_Y-4",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X2_Y-1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X1_Y-1",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X0_Y-4",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X0_Y2",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X-4_Y-3",
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/VehicleOffroadExampleMap_MainGrid_L0_X3_Y-2"
+			]
+		},
+		{
+			"ShaderMapHash": "E09C3B0F746D176BFBE055961762CD525A82F760",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "024F17A3D970761A7DA2CCA1C77AADB6E6469E54",
+			"Assets": [
+				"/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap"
+			]
+		}
+	]
+}
